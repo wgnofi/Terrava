@@ -98,3 +98,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Data provided by NASA's APOD and EONET APIs.
 * [APOD](https://apod.nasa.gov/apod/astropix.html)
 * [EONET API](https://eonet.gsfc.nasa.gov/docs/v2.1)
+* Thank you NASA 🪐 💕
